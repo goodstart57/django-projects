@@ -1,0 +1,7 @@
+BBBB  III  GGG   SSS  
+B   B  I  G     S     
+BBBB   I  G  GG  SSS  
+B   B  I  G   G     S 
+BBBB  III  GGG  SSSS  
+                      
+                      
